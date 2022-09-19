@@ -1,7 +1,7 @@
 package com.example.restservices.utils;
 
 import com.example.restservices.controller.EmployeeController;
-import com.example.restservices.payroll.Employee;
+import com.example.restservices.repository.Employee;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.example.restservices.payroll;
+package com.example.restservices.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

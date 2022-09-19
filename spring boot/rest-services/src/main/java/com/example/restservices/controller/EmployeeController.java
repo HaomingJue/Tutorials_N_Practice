@@ -1,7 +1,7 @@
 package com.example.restservices.controller;
 
-import com.example.restservices.payroll.Employee;
-import com.example.restservices.payroll.EmployeeRepository;
+import com.example.restservices.repository.Employee;
+import com.example.restservices.repository.EmployeeRepository;
 import com.example.restservices.utils.EmployeeModelAssembler;
 import com.example.restservices.utils.EmployeeNotFoundException;
 import org.springframework.hateoas.CollectionModel;

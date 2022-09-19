@@ -1,4 +1,4 @@
-package com.example.restservices.payroll;
+package com.example.restservices.repository;
 
 import lombok.Data;
 
@@ -28,6 +28,7 @@ public class Employee {
     public String getName() {
         return this.firstName + " " + this.lastName;
     }
+
     public void setName(String name) {
         String[] parts = name.split(" ");
         this.firstName = parts[0];
