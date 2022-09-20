@@ -1,5 +1,7 @@
 package com.example.restservices.repository;
 
+import com.example.restservices.model.Employee;
+import com.example.restservices.model.Order;
 import com.example.restservices.utils.Status;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

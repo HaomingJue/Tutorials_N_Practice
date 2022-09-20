@@ -1,6 +1,6 @@
 package com.example.restservices.controller;
 
-import com.example.restservices.repository.Order;
+import com.example.restservices.model.Order;
 import com.example.restservices.repository.OrderRepository;
 import com.example.restservices.utils.OrderModelAssembler;
 import com.example.restservices.utils.OrderNotFoundException;

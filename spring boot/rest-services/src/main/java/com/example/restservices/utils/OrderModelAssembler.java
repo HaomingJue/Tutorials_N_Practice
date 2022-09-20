@@ -1,7 +1,7 @@
 package com.example.restservices.utils;
 
 import com.example.restservices.controller.OrderController;
-import com.example.restservices.repository.Order;
+import com.example.restservices.model.Order;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;

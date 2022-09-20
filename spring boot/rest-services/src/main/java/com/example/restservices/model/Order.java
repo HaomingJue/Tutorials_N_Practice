@@ -1,4 +1,4 @@
-package com.example.restservices.repository;
+package com.example.restservices.model;
 
 import com.example.restservices.utils.Status;
 import lombok.Data;
