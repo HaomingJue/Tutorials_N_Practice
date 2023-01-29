@@ -9,3 +9,7 @@
 **port: 5000** 
 ### How to start mock server:
 <code>npm run server</code>
+
+### API 
+Get all tasks: \
+<code>http://localhost:5000/tasks</code>
