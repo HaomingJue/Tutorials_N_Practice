@@ -12,4 +12,10 @@
 
 ### API 
 Get all tasks: \
-<code>http://localhost:5000/tasks</code>
+**[Get]** <code>http://localhost:5000/tasks</code> \
+Delete a task: \
+**[Delete]** <code>http://localhost:5000/tasks/<task_id></code> \
+Update a task reminder: \
+**[Put]** <code>http://localhost:5000/tasks/<task_id></code> \
+Add a task: \
+**[Post]** <code>http://localhost:5000/tasks</code> 
